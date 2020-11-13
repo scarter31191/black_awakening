@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  posts: MyString
+  comments: MyString
+  communities: MyString
+  follows: MyString
+  followers: MyString
+
+two:
+  posts: MyString
+  comments: MyString
+  communities: MyString
+  follows: MyString
+  followers: MyString

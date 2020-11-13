@@ -1,0 +1,31 @@
+user story
+    -sign-up
+    -input personal info
+    -input skills and trade (if any)
+    -select intrests
+    -create communities
+    -follow people
+    -edit news feed (home page)
+    -follow topics
+    -create posts / events
+    -comment on posts / events
+    -save a post / share
+    -access other apps (other people business)
+
+relatioship/database
+    -user should have many posts,comments,communities,follows,followers,
+    -comments has many through posts
+    -post belongs to user post has many comments
+    -user has many bookmarks
+
+
+side ideas
+*customize app dock*
+*live value feed ex. housing market, stock, job market, ect.*
+
+sprints 11/11 @730
+-make the homepage (building a HTML CSS home page)
+-CRUD user
+-tech / politics community homepage
+
+    
